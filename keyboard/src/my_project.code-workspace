@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../my_project"
+		},
+		{
+			"name": "keyboard",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
